@@ -97,7 +97,6 @@ public class GameFrame extends JFrame {
         }
         );
         timerDrop.start();
-
     }
 
 
